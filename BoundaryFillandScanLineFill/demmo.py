@@ -1,1 +1,0 @@
-print("co cai loz")
